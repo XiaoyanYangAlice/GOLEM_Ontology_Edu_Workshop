@@ -1,0 +1,4 @@
+SPARQLWrapper
+pandas
+matplotlib
+networkx
