@@ -10,7 +10,6 @@ This introductory workshop explores fanfiction as a resource for cultural and li
 
 The workshop concludes with guided practice in Google Colab. Participants will run prepared SPARQL queries, read the results, and make a small change to a query. **No prior knowledge of Python, RDF, or SPARQL is required.**
 
-The teaching materials adapt the GOLEM workshop presented at DHBenelux 2026 and examples from an earlier presentation on East Asian cultural research. Historical figures and screenshots retain their original context and should not be read as current platform statistics.
 
 ## Workshop Information
 
@@ -21,10 +20,7 @@ The teaching materials adapt the GOLEM workshop presented at DHBenelux 2026 and 
 | Mandarin session | 11 November 2026, starting at 15:30 HKT / 08:30 CET |
 | English session | 19 November 2026, class scheduled for 18:30–21:30 HKT / 11:30–14:30 CET |
 | Workshop duration | Approximately 100 minutes: 70 minutes of presentation and discussion, followed by 30 minutes of guided notebook practice |
-| Format | Remote guest teaching with students attending together in the classroom |
-| Slide language | English, with oral instruction in the language of each session |
 
-The workshop occupies part of the scheduled class. No mid-session break is planned for the Mandarin session. The guest workshop's precise starting time within the English class remains subject to confirmation by the course instructor.
 
 ## Learning Goals
 
@@ -47,7 +43,6 @@ By the end of the workshop, participants should be able to:
 | 60–70 min | **SPARQL and Practice Preparation** | Query structure, prefixes, named graphs, and reading results |
 | 70–100 min | **Guided Notebook Practice: 30 Minutes** | Running selected queries and interpreting the results |
 
-Short questions and classroom discussion are included in the presentation time.
 
 ## Workshop Materials
 
