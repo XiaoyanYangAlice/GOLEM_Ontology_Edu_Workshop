@@ -53,7 +53,7 @@ Short questions and classroom discussion are included in the presentation time.
 
 | Material | Purpose |
 |---|---|
-| [Presentation slides](materials/GOLEM_Workshop.pptx) | English slides for the introductory presentation |
+| [Presentation slides] | English slides for the introductory presentation (will be provided after the class) |
 | [Tutorial notebook](materials/GOLEM_Ontology_Edu_Workshop.ipynb) | Prepared queries for metadata exploration and character analysis |
 | [Ontology documentation](https://github.com/GOLEM-lab/golem-ontology/wiki) | A reference for classes, properties, prefixes, and examples |
 
