@@ -53,7 +53,7 @@
 
 | 材料 | 用途 |
 |---|---|
-| [英文幻灯片](materials/GOLEM_Workshop.pptx) | 课程背景、研究案例、建模概念和查询介绍 |
+| [英文幻灯片]. | 课程背景、研究案例、建模概念和查询介绍 (将在课程后提供slides) |
 | [教学notebook](materials/GOLEM_Ontology_Edu_Workshop.ipynb) | 元数据探索与人物分析的查询示例 |
 | [在线本体文档](https://github.com/GOLEM-lab/golem-ontology/wiki) | 查阅类、属性、命名空间前缀及示例 |
 
