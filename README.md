@@ -48,7 +48,7 @@ By the end of the workshop, participants should be able to:
 
 | Material | Purpose |
 |---|---|
-| [Presentation slides](materials/GOLEM_EdUHK_Workshop_slides.pptx) | English slides for the introductory presentation (will be provided after the class) |
+| [Presentation slides](materials/GOLEM_EdUHK_Workshop_slides.pptx) | English slides for the introductory presentation |
 | [Tutorial notebook](materials/GOLEM_Ontology_Edu_Workshop.ipynb) | Prepared queries for metadata exploration and character analysis |
 | [Ontology documentation](https://github.com/GOLEM-lab/golem-ontology/wiki) | A reference for classes, properties, prefixes, and examples |
 
